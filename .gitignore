@@ -1,0 +1,5 @@
+*.txt
+Pipfile
+*.pyc
+/2021/intcode/__pycache__
+__init__.py
